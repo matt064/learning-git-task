@@ -3,7 +3,7 @@ print()
 
 shopping_dict = {
     "piekarnia" : ['chleb', 'bułki', 'pączek'],
-    "warzywniak" : ['marchew', 'seler', 'rukola'],
+    "warzywniak" : ['marchew', 'seler', 'rukola', 'pomidor'],
 }
 
 sum = 0
